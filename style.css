@@ -1,0 +1,27 @@
+body{
+    background-color: #FBFBFB;
+    font-family: "Rubik", serif;
+}
+
+.fonts{
+    font-size: 13.5px;
+}
+.color{
+    color: #51B56D;
+}
+.services .container .row .col-lg-4:nth-child(even) .icon{
+    background-color: #E9E4FB;
+    color: #917AEB;
+}
+.services .container .row .col-lg-4:nth-child(odd) .icon{
+    background-color: #DCF0E2;
+    color: #54B56D;
+}
+.style{
+    background-color: #E9E4FB;
+    color: #917AEB;
+}
+.bg{
+    background-color: #DCF0E2;
+    color: #54B56D;
+}

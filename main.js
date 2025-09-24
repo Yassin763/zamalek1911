@@ -1,0 +1,1 @@
+icons style d-inline-block py-3 px-4 rounded-2 fw-bold fs-2
